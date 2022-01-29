@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+   padding: 0;
+    border: none;
+    box-sizing: border-box;
+    list-style: none;
+    background: none; 
+    background: transparent;
+}
+
+.index-google-png{
+    margin: 20px auto 0px;
+    display: block;
+}
+
+
+
+.index-nav-bar{
+    width:90%;
+
+    background-color:rgb(238, 238, 238); 
+    margin: auto   auto ;
+}
+
+#search-bar{
+    width: 350px;
+    height: 20px;
+    border: 1px solid;
+    box-sizing: border-box;
+    background-color: white;
+    margin-left: 250px;
+    display: inline-block;
+}
+
+#search-text{
+    margin-left: 350px;
+    width: auto;
+
+}
+
+#search-button{
+    border: 1px solid;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 300px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border-radius: 3px;
+    
+
+
+
+}
+
+#lucky-button{
+    border: 1px solid;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 3px;
+    margin-left: 1px;
+    
+}
+
+.footer-1{
+    display: flex;
+    margin-top: 5px;
+    gap: 3px;
+    justify-content: center;
+
+}
+
+.footer-1 > *{
+    flex-basis: 70%;
+    align-items: center;
+    
+}
+
+#div-1{
+    background-color: #BDDBD0;
+    display: flex;
+    justify-content: center;
+    
+}
+#div-2{
+    background-color: #B0D4C7;   
+    display: flex;
+    justify-content: center;
+}
+#div-3{
+    background-color: #A2CDBD;
+    display: flex;
+    justify-content: center;
+}
+
+#email-bar{
+    background-color: white;
+    border: 1px solid;
+    border-radius: 3px;
+    margin-left: 10px;
+
+}
+
+#subscribe-button{
+    border: black 1px solid;
+    padding: 3px;
+    background-color: #F9F9F1;
+    margin-left: 30px;
+}
+
+#anchor-ref{
+    margin-left: 10px;
+}
+
+
+
